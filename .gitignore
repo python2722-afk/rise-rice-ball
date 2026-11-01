@@ -1,0 +1,21 @@
+# This workspace also contains review and presentation materials.
+# Keep the Git repository allow-listed so they cannot be committed by mistake.
+/*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/firmware/
+!/firmware/**
+
+# Local credentials and generated firmware files
+firmware/apps/main/cloud/ljyd_cloud_credentials.h
+firmware/**/.config.old
+firmware/**/sdkconfig
+firmware/**/sdkconfig.old
+firmware/**/build/
+firmware/**/managed_components/
+firmware/**/*.log
+firmware/**/*.tmp
+firmware/**/*.bak
+firmware/**/*.env
+firmware/**/*.local
