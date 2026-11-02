@@ -2,6 +2,20 @@
 
 Firmware for **Rise Rice Ball (XJWB03)**, an ESP-IDF-based smart companion device with voice interaction, cloud connectivity, posture detection, and expressive hardware feedback.
 
+## Demo and Prototype
+
+Demo image:
+
+![Rise Rice Ball demo](docs/images/demo.png)
+
+Physical prototype:
+
+![Rise Rice Ball physical prototype](docs/images/prototype.jpg)
+
+## Access to Restricted Components
+
+Some component code is not included in this public repository due to copyright and licensing restrictions. To request access, contact the project owner with your GitHub username. Where sharing is permitted, access may be granted individually through a separate private repository. Access is subject to the applicable rights and permissions; this public repository does not include or automatically grant access to that code.
+
 ## Features
 
 - Real-time voice interaction and audio streaming

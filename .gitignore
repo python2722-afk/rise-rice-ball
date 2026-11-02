@@ -4,6 +4,10 @@
 !/.gitignore
 !/.gitattributes
 !/README.md
+!/docs/
+!/docs/images/
+!/docs/images/demo.png
+!/docs/images/prototype.jpg
 !/firmware/
 !/firmware/**
 
